@@ -1,0 +1,8 @@
+﻿  新年快乐.cpp
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(42): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(164): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(165): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(168): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\12559\desktop\新年快乐1\新年快乐\新年快乐\新年快乐.cpp(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  新年快乐.vcxproj -> C:\Users\12559\Desktop\新年快乐1\新年快乐\Debug\新年快乐.exe
